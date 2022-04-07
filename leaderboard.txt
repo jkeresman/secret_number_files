@@ -1,0 +1,14 @@
+1. Player: Marta, Score: 1
+2. Player: Aleksander, Score: 2
+3. Player: Jasmin, Score: 2
+4. Player: Damir, Score: 3
+5. Player: Ivona, Score: 3
+6. Player: Josip, Score: 5
+7. Player: Darinka, Score: 5
+8. Player: Marijana, Score: 5
+9. Player: Milivoj, Score: 5
+10. Player: Marina, Score: 5
+11. Player: Dalibor, Score: 5
+12. Player: Ivana, Score: 6
+13. Player: Marin, Score: 6
+14. Player: Mislav, Score: 16
